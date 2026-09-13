@@ -1,0 +1,1002 @@
+{
+  "channels": {
+    "-1003963077640": {
+      "ownerId": 1495914495,
+      "daily": {
+        "2026-09-11": {
+          "joined": 3,
+          "left": 2
+        },
+        "2026-09-12": {
+          "joined": 1,
+          "left": 1
+        }
+      },
+      "posts": {
+        "count": 459,
+        "views": 0
+      },
+      "memberHistory": {
+        "8228379486": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "6668834508": {
+          "joined": 0,
+          "left": 1,
+          "rejoinCount": 0,
+          "currentlyOut": true
+        },
+        "8615386354": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8779841423": {
+          "joined": 0,
+          "left": 1,
+          "rejoinCount": 0,
+          "currentlyOut": true
+        },
+        "8340724531": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8467456271": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8518753487": {
+          "joined": 0,
+          "left": 1,
+          "rejoinCount": 0,
+          "currentlyOut": true
+        }
+      }
+    },
+    "-1003466929876": {
+      "ownerId": 1495914495,
+      "daily": {
+        "2026-09-11": {
+          "joined": 9,
+          "left": 2
+        },
+        "2026-09-12": {
+          "joined": 11,
+          "left": 7
+        }
+      },
+      "posts": {
+        "count": 24,
+        "views": 0
+      },
+      "memberHistory": {
+        "1384130988": {
+          "joined": 0,
+          "left": 1,
+          "rejoinCount": 0,
+          "currentlyOut": true
+        },
+        "1979748743": {
+          "joined": 0,
+          "left": 1,
+          "rejoinCount": 0,
+          "currentlyOut": true
+        },
+        "7594909644": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8843596235": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8905912778": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8747771488": {
+          "joined": 1,
+          "left": 1,
+          "rejoinCount": 0,
+          "currentlyOut": true
+        },
+        "6645353077": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8756667093": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8596204817": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8015620802": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "7799281417": {
+          "joined": 0,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8842738399": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8563586549": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "7890743177": {
+          "joined": 0,
+          "left": 1,
+          "rejoinCount": 0,
+          "currentlyOut": true
+        },
+        "6127849623": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8323173676": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "7747034456": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8671110713": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8301458824": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "6884439794": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "7688006329": {
+          "joined": 0,
+          "left": 1,
+          "rejoinCount": 0,
+          "currentlyOut": true
+        },
+        "8948835961": {
+          "joined": 0,
+          "left": 1,
+          "rejoinCount": 0,
+          "currentlyOut": true
+        },
+        "8924534764": {
+          "joined": 0,
+          "left": 1,
+          "rejoinCount": 0,
+          "currentlyOut": true
+        },
+        "8824756103": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8651261443": {
+          "joined": 0,
+          "left": 1,
+          "rejoinCount": 0,
+          "currentlyOut": true
+        },
+        "8555233199": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8656383648": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        }
+      }
+    },
+    "-1004367453375": {
+      "ownerId": 1495914495,
+      "daily": {
+        "2026-09-11": {
+          "joined": 11,
+          "left": 2
+        },
+        "2026-09-12": {
+          "joined": 12,
+          "left": 6
+        }
+      },
+      "posts": {
+        "count": 3,
+        "views": 0
+      },
+      "memberHistory": {
+        "1384130988": {
+          "joined": 0,
+          "left": 1,
+          "rejoinCount": 0,
+          "currentlyOut": true
+        },
+        "2052753613": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "7594909644": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8843596235": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "6362056930": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8905912778": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "6645353077": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8756667093": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8810880838": {
+          "joined": 0,
+          "left": 1,
+          "rejoinCount": 0,
+          "currentlyOut": true
+        },
+        "8596204817": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8015620802": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "7799281417": {
+          "joined": 0,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "7688006329": {
+          "joined": 1,
+          "left": 1,
+          "rejoinCount": 0,
+          "currentlyOut": true
+        },
+        "8842738399": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8563586549": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "6127849623": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8323173676": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "7747034456": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8671110713": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8301458824": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "6884439794": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8924534764": {
+          "joined": 0,
+          "left": 1,
+          "rejoinCount": 0,
+          "currentlyOut": true
+        },
+        "8948835961": {
+          "joined": 0,
+          "left": 1,
+          "rejoinCount": 0,
+          "currentlyOut": true
+        },
+        "8824756103": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8740333958": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "6614829903": {
+          "joined": 0,
+          "left": 1,
+          "rejoinCount": 0,
+          "currentlyOut": true
+        },
+        "8651261443": {
+          "joined": 0,
+          "left": 1,
+          "rejoinCount": 0,
+          "currentlyOut": true
+        },
+        "8555233199": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8656383648": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        }
+      }
+    },
+    "-1003931689337": {
+      "ownerId": 7842362913,
+      "daily": {
+        "2026-09-11": {
+          "joined": 6,
+          "left": 1
+        },
+        "2026-09-12": {
+          "joined": 9,
+          "left": 0
+        }
+      },
+      "posts": {
+        "count": 40,
+        "views": 0
+      },
+      "memberHistory": {
+        "7594909644": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8843596235": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8756667093": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8015620802": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8155586275": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "7799281417": {
+          "joined": 0,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8563586549": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "7193787015": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "6127849623": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "7747034456": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8671110713": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8301458824": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "6884439794": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8555233199": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8656383648": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        }
+      }
+    },
+    "-1003585378693": {
+      "ownerId": 1495914495,
+      "daily": {
+        "2026-09-11": {
+          "joined": 4,
+          "left": 0
+        },
+        "2026-09-12": {
+          "joined": 6,
+          "left": 3
+        }
+      },
+      "posts": {
+        "count": 127,
+        "views": 0
+      },
+      "memberHistory": {
+        "8819714402": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "6362056930": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8065984400": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "7688006329": {
+          "joined": 1,
+          "left": 1,
+          "rejoinCount": 0,
+          "currentlyOut": true
+        },
+        "8842738399": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "6127849623": {
+          "joined": 1,
+          "left": 1,
+          "rejoinCount": 0,
+          "currentlyOut": true
+        },
+        "8824756103": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8281021481": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8740333958": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8651261443": {
+          "joined": 1,
+          "left": 1,
+          "rejoinCount": 0,
+          "currentlyOut": true
+        }
+      }
+    },
+    "-1004308345451": {
+      "ownerId": 1495914495,
+      "daily": {
+        "2026-09-11": {
+          "joined": 6,
+          "left": 4
+        },
+        "2026-09-12": {
+          "joined": 3,
+          "left": 1
+        }
+      },
+      "posts": {
+        "count": 32,
+        "views": 0
+      },
+      "memberHistory": {
+        "8228379486": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8615386354": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "7606385193": {
+          "joined": 0,
+          "left": 1,
+          "rejoinCount": 0,
+          "currentlyOut": true
+        },
+        "8779841423": {
+          "joined": 0,
+          "left": 1,
+          "rejoinCount": 0,
+          "currentlyOut": true
+        },
+        "8332386311": {
+          "joined": 1,
+          "left": 1,
+          "rejoinCount": 0,
+          "currentlyOut": true
+        },
+        "8847772801": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "7315681594": {
+          "joined": 1,
+          "left": 1,
+          "rejoinCount": 0,
+          "currentlyOut": true
+        },
+        "8340724531": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "5709681892": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8467456271": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8518753487": {
+          "joined": 0,
+          "left": 1,
+          "rejoinCount": 0,
+          "currentlyOut": true
+        },
+        "8294440087": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        }
+      }
+    },
+    "-1004372603704": {
+      "ownerId": 1495914495,
+      "daily": {
+        "2026-09-11": {
+          "joined": 9,
+          "left": 1
+        },
+        "2026-09-12": {
+          "joined": 13,
+          "left": 0
+        }
+      },
+      "posts": {
+        "count": 2,
+        "views": 0
+      },
+      "memberHistory": {
+        "7594909644": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8843596235": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "5709681892": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8905912778": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8756667093": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "6932767346": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8015620802": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8155586275": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "7799281417": {
+          "joined": 0,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8563586549": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "7193787015": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "6127849623": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8725041439": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "7747034456": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8540995429": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8671110713": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8301458824": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "6884439794": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8294440087": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8349265620": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8555233199": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8656383648": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        }
+      }
+    },
+    "-1003033136386": {
+      "ownerId": 6362056930,
+      "daily": {},
+      "posts": {
+        "count": 3,
+        "views": 0
+      }
+    },
+    "-1004423978859": {
+      "ownerId": 8534884118,
+      "daily": {
+        "2026-09-12": {
+          "joined": 1,
+          "left": 1
+        }
+      },
+      "posts": {
+        "count": 2,
+        "views": 0
+      },
+      "memberHistory": {
+        "8155586275": {
+          "joined": 1,
+          "left": 1,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        }
+      }
+    },
+    "-1004295871093": {
+      "ownerId": 8155586275,
+      "daily": {
+        "2026-09-12": {
+          "joined": 5,
+          "left": 2
+        }
+      },
+      "posts": {
+        "count": 28,
+        "views": 0
+      },
+      "memberHistory": {
+        "8758096327": {
+          "joined": 1,
+          "left": 1,
+          "rejoinCount": 0,
+          "currentlyOut": true
+        },
+        "8202810373": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8534884118": {
+          "joined": 1,
+          "left": 1,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8138740866": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8379052182": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        }
+      }
+    },
+    "-1004387340046": {
+      "ownerId": 8294440087,
+      "daily": {
+        "2026-09-12": {
+          "joined": 6,
+          "left": 1
+        }
+      },
+      "posts": {
+        "count": 7,
+        "views": 0
+      },
+      "memberHistory": {
+        "609517172": {
+          "joined": 1,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "795764923": {
+          "joined": 0,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8601642537": {
+          "joined": 0,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8961188317": {
+          "joined": 0,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8263435201": {
+          "joined": 0,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        },
+        "8787096624": {
+          "joined": 0,
+          "left": 0,
+          "rejoinCount": 0,
+          "currentlyOut": false
+        }
+      }
+    },
+    "-1003978624469": {
+      "ownerId": 8294440087,
+      "daily": {},
+      "posts": {
+        "count": 0,
+        "views": 0
+      }
+    }
+  }
+}
